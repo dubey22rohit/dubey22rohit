@@ -1,14 +1,14 @@
 ### Hi there 👋 , I'm Rohit Dubey
 
-<a href="https://www.instagram.com/rohitdubey22/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href="https://www.linkedin.com/in/rohitdubey22/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/rohitdubey22/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href="https://twitter.com/winniethe_poo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <br />
 About me:
 
-- 🔭 I’m currently working at Softway as an Full Stack(MERN) developer
-- 🌱 I’m currently learning Django and Solidity
-- 👯 I’m looking to collaborate on any Full Stack Projects(MERN,Django)
+- 🔭 I’m currently working at Softway as a Full Stack(MERN) developer
+- 🌱 I’m currently learning Blockchain Development using Slidity.
+- 👯 I’m looking to collaborate on any Full Stack Projects(MERN,Django,Flask,React Native)
 - 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:dubey22rohit@gmail.com">dubey22rohit@gmail.com</a>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
