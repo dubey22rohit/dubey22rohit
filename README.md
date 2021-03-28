@@ -13,7 +13,7 @@ About me:
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-**My Current Skills : **
+<h3>My Current Skills : </h3>
 
 <h4>Languages</h4>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
