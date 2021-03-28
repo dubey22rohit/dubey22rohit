@@ -25,15 +25,16 @@ About me:
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/material-rounded/40/000000/django.png"/>
 <img align="left" src="https://img.icons8.com/cute-clipart/40/000000/flask.png"/>
-
+<br />
 <h4>Databases</h4>
 <img align="left" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-
+<br />
 <h4>Tools and Technologies</h4>
 <img align="left" src="https://img.icons8.com/color/40/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/dusk/40/000000/docker.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/graphql.png"/>
+<br />
 <h4>Other Skills</h4>
 -Data Structures
 -Algorithms
