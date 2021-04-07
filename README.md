@@ -46,7 +46,7 @@ About me:
 ## 🌱 I’m currently learning ...
 - **Solidity**
 - **React Native**
-- - **Django**
+- **Django**
 <br/><br/>
 
 <p><i>Note : This is just an overview, this doesn't truly display my strengths and weaknesses</i></p>
