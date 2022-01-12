@@ -7,7 +7,6 @@
 About me:
 
 - 🔭 I’m currently working at Softway as a Full Stack(MERN) developer
-- 🌱 I’m currently learning Blockchain Development.
 - 👯 I’m looking to collaborate on any Full Stack Projects(MERN,Django,Flask,React Native)
 - 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:dubey22rohit@gmail.com">dubey22rohit@gmail.com</a>
 
