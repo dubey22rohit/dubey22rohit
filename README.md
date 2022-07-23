@@ -17,7 +17,6 @@ About me:
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/nolan/40/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/dusk/40/000000/python.png"/>
-<img src="https://img.icons8.com/color/344/golang.png"/>
 
 <h4>Frameworks/Libraries</h4>
 <img align="left" src="https://img.icons8.com/officel/40/000000/react.png"/>
