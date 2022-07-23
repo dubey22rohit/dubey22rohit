@@ -7,7 +7,6 @@
 About me:
 
 - 🔭 I’m currently working at Softway as a Full Stack(MERN) developer
-- 👯 I’m looking to collaborate on any Full Stack Projects(MERN,Django,Flask,React Native)
 - 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:dubey22rohit@gmail.com">dubey22rohit@gmail.com</a>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
@@ -18,6 +17,7 @@ About me:
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/nolan/40/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/dusk/40/000000/python.png"/>
+<img src="https://img.icons8.com/color/344/golang.png"/>
 
 <h4>Frameworks/Libraries</h4>
 <img align="left" src="https://img.icons8.com/officel/40/000000/react.png"/>
