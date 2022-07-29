@@ -21,7 +21,7 @@ About me:
 <h4>Frameworks/Libraries</h4>
 <img align="left" src="https://img.icons8.com/officel/40/000000/react.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" src="https://img.icons8.com/material-outlined/40/000000/django.png"/>
+<img align="left" src="[https://img.icons8.com/material-outlined/40/000000/django.png](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png)"/>
 <img align="left" src="https://img.icons8.com/cute-clipart/40/000000/flask.png"/>
 <br />
 <br />
