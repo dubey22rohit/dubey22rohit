@@ -16,24 +16,23 @@ About me:
 <h4>Languages</h4>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" width="50px" height="50px"/>
 <img align="left" src="https://img.icons8.com/color/344/golang.png" width="50px" height="50px"/>
-<img src="https://img.icons8.com/dusk/40/000000/python.png" width="50px" height="50px"/>
-
+<img src="https://img.icons8.com/color/344/python--v1.png" width="50px" height="50px"/>
 <h4>Frameworks/Libraries</h4>
-<img align="left" src="https://img.icons8.com/officel/40/000000/react.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" src="[https://img.icons8.com/material-outlined/40/000000/django.png](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png)"/>
-<img align="left" src="https://img.icons8.com/cute-clipart/40/000000/flask.png"/>
-<br />
+<img align="left" src="https://img.icons8.com/officel/40/000000/react.png" width="50px" height="50px"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png" width="50px" height="50px"/>
+<img align="left" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" width="50px" height="50px"/>
+<img align="left" src="https://img.icons8.com/cute-clipart/40/000000/flask.png" width="50px" height="50px"/>
+<br/>
 <br />
 <h4>Databases</h4>
-<img align="left" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/postgreesql.png" width="50px" height="50px"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png" width="50px" height="50px"/>
 <br />
 <br />
 <h4>Tools and Technologies</h4>
-<img align="left" src="https://img.icons8.com/color/40/000000/git.png"/>
-<img align="left" src="https://img.icons8.com/dusk/40/000000/docker.png"/>
-<img align="left" src="https://img.icons8.com/color/40/000000/graphql.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/git.png" width="50px" height="50px"/>
+<img align="left" src="https://img.icons8.com/dusk/40/000000/docker.png" width="50px" height="50px"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/graphql.png" width="50px" height="50px"/>
 <br />
 <br />
 <h4>Other Skills</h4>
