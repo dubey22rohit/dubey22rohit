@@ -14,9 +14,9 @@ About me:
 <h3>My Current Skills : </h3>
 
 <h4>Languages</h4>
-<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" width="100px" height="100px"/>
-<img align="left" src="https://img.icons8.com/color/344/golang.png" width="100px" height="100px"/>
-<img src="https://img.icons8.com/dusk/40/000000/python.png" width="100px" height="100px"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" width="50px" height="50px"/>
+<img align="left" src="https://img.icons8.com/color/344/golang.png" width="50px" height="50px"/>
+<img src="https://img.icons8.com/dusk/40/000000/python.png" width="50px" height="50px"/>
 
 <h4>Frameworks/Libraries</h4>
 <img align="left" src="https://img.icons8.com/officel/40/000000/react.png"/>
